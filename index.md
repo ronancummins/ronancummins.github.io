@@ -1,4 +1,4 @@
-## Ronan Cummins PhD MSc BEng PgCert
+# Ronan Cummins PhD MSc BEng PgCert
 
 
 Director of Artificial Intelligence Research  
