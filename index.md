@@ -1,4 +1,4 @@
-# Ronan Cummins  
+
 
 ## Contact  
 Director of Artificial Intelligence Research  
