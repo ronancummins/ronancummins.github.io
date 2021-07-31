@@ -11,8 +11,7 @@ minima:
   # generate social links in footer
   social_links:    
     github:  jekyll
-    linkedin: jekyll
-    dblp: d
+    linkedin: jekyll    
     
     
 
