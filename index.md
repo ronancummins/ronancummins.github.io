@@ -13,6 +13,6 @@ I am currently director of Artificial Intelligence Research at Ieso Digital Heal
 
   
 **Associations**  
-Member of the [Marie-Curie Fellowship Association](http://mcfa.eu/)
-Member of the [Marie-Curie Alumni Association](https://www.mariecuriealumni.eu/)
-Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/)
+Member of the [Marie-Curie Fellowship Association](http://mcfa.eu/) 
+Member of the [Marie-Curie Alumni Association](https://www.mariecuriealumni.eu/) 
+Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/) 
