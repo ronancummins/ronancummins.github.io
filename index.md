@@ -2,8 +2,8 @@
 
 **Contact**  
 Director of Artificial Intelligence Research  
-[ieso](https://www.iesogroup.com/)
-Cambridge, UK
+[ieso](https://www.iesogroup.com/)  
+Cambridge, UK  
 
 \[[e-mail](mailto:ronan.cummins@cl.cam.ac.uk) [github](https://github.com/ronancummins) [google scholar](https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en) [dblp](https://dblp.org/pid/28/1264.html) [linkedin](https://www.linkedin.com/in/ronan-cummins-b046997/)\]
 
