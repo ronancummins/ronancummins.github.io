@@ -13,6 +13,7 @@ I am currently vice president of Artificial Intelligence at [ieso](https://ieso.
 
   
 **Associations**
+
 Member of the [Marie-Curie Alumni Association](https://www.mariecuriealumni.eu/)  
 Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/)  
 
