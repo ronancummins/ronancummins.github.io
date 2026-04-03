@@ -1,6 +1,5 @@
 ---
-layout: page
-title: ""
+layout: home
 permalink: /
 ---
 
@@ -25,20 +24,23 @@ I am Vice President of Artificial Intelligence at [ieso](https://ieso.ai/), a me
 
 ### Experience
 
-**Vice President of Artificial Intelligence** &middot; [ieso](https://ieso.ai/) &middot; Cambridge, UK &nbsp;*(current)*  
+**Vice President of Artificial Intelligence** &middot; [ieso](https://ieso.ai/) &middot; Cambridge, UK  
+2018–present  
 Leading AI research and development for a digital mental health platform.
 
 **Senior Research Associate** &middot; University of Cambridge, [NLIP Group](https://www.cl.cam.ac.uk/research/nl/)  
+2012–2018  
 Research on automated language teaching and assessment, in collaboration with Cambridge English.
 
 **Postdoctoral Researcher (Marie-Curie Fellow)** &middot; University of Glasgow, [Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/)  
+2009–2012  
 Research on query performance prediction, document score distributions, and probabilistic retrieval models.
 
 ---
 
 ### Education
 
-**PhD, Information Retrieval** &middot; [University of Ireland, Galway](https://nuig.github.io/)  
+**PhD, Information Retrieval** &middot; [University of Ireland, Galway](https://nuig.github.io/) &middot; 2009  
 Thesis on evolving term-weighting schemes for information retrieval using genetic programming.
 
 ---
@@ -49,6 +51,7 @@ Thesis on evolving term-weighting schemes for information retrieval using geneti
 - Machine Learning and Deep Learning
 - Information Retrieval
 - Automated Language Assessment and Essay Scoring
+- Computational Approaches to Mental Health
 
 ---
 
