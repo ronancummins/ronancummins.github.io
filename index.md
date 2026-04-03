@@ -58,9 +58,9 @@ Thesis on evolving term-weighting schemes for information retrieval using geneti
 Ronan Cummins, Meng Zhang, Ted Briscoe  
 *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)*
 
-**[Improved Query Performance Prediction Using Standard Deviation](https://www.researchgate.net/publication/221301382_Improved_query_performance_prediction_using_standard_deviation)**  
-Ronan Cummins, Joemon Jose, Colm O'Riordan  
-*Proceedings of the 34th Annual ACM SIGIR Conference (SIGIR 2011)*
+**[A Pólya Urn Document Language Model for Improved Information Retrieval](https://dl.acm.org/doi/abs/10.1145/2746231)**  
+Ronan Cummins, Jiaul H. Paik, Yuanhua Lv  
+*ACM Transactions on Information Systems (TOIS), 33, 2015*
 
 **[Quantifying the Association Between Psychotherapy Content and Clinical Outcomes Using Deep Learning](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2748757)**  
 Michael P Ewbank, Ronan Cummins, Valentin Tablan, Sarah Bateup, Ana Catarino, Alan J Martin, Andrew D Blackwell  
