@@ -54,6 +54,10 @@ Thesis on evolving term-weighting schemes for information retrieval using geneti
 
 ### Selected Publications
 
+**[Quantifying the Association Between Psychotherapy Content and Clinical Outcomes Using Deep Learning](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2748757)**  
+Michael P Ewbank, Ronan Cummins, Valentin Tablan, Sarah Bateup, Ana Catarino, Alan J Martin, Andrew D Blackwell  
+*JAMA Psychiatry, 77(1):35–43, 2020*
+
 **[Constrained Multi-Task Learning for Automated Essay Scoring](https://aclanthology.org/P16-1075/)**  
 Ronan Cummins, Meng Zhang, Ted Briscoe  
 *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)*
@@ -61,10 +65,6 @@ Ronan Cummins, Meng Zhang, Ted Briscoe
 **[A Pólya Urn Document Language Model for Improved Information Retrieval](https://dl.acm.org/doi/abs/10.1145/2746231)**  
 Ronan Cummins, Jiaul H. Paik, Yuanhua Lv  
 *ACM Transactions on Information Systems (TOIS), 33, 2015*
-
-**[Quantifying the Association Between Psychotherapy Content and Clinical Outcomes Using Deep Learning](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2748757)**  
-Michael P Ewbank, Ronan Cummins, Valentin Tablan, Sarah Bateup, Ana Catarino, Alan J Martin, Andrew D Blackwell  
-*JAMA Psychiatry, 77(1):35–43, 2020*
 
 [Full publication list &rarr;](https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en)
 
