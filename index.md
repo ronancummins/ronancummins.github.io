@@ -62,9 +62,9 @@ Ronan Cummins, Meng Zhang, Ted Briscoe
 Ronan Cummins, Joemon Jose, Colm O'Riordan  
 *Proceedings of the 34th Annual ACM SIGIR Conference (SIGIR 2011)*
 
-**[An Axiomatic Comparison of Learned Term-Weighting Schemes in Information Retrieval](https://link.springer.com/article/10.1007/s10462-008-9074-5)**  
-Ronan Cummins, Colm O'Riordan  
-*Artificial Intelligence Review, Springer, 2008*
+**[Quantifying the Association Between Psychotherapy Content and Clinical Outcomes Using Deep Learning](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2748757)**  
+Michael P Ewbank, Ronan Cummins, Valentin Tablan, Sarah Bateup, Ana Catarino, Alan J Martin, Andrew D Blackwell  
+*JAMA Psychiatry, 77(1):35–43, 2020*
 
 [Full publication list &rarr;](https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en)
 
