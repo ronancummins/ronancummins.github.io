@@ -1,7 +1,11 @@
 theme: minima
 
-
 title: Ronan Cummins
+description: "Researcher and AI leader specialising in Natural Language Processing, Machine Learning, and Information Retrieval."
 
+author:
+  name: Ronan Cummins
+  email: ronan.cummins@cl.cam.ac.uk
 
-author: null
+github_username: ronancummins
+linkedin_username: ronan-cummins-b046997
