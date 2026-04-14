@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <h1 style="margin-bottom: 0.15em;">Ronan Cummins</h1>
-<p style="color: #555; margin-top: 0;">Vice President of Artificial Intelligence &middot; <a href="https://ieso.ai/">ieso</a> &middot; Cambridge, UK</p>
+<p style="color: #555; margin-top: 0;">VP of AI &middot; PhD &middot; Marie-Curie Alumni &middot; Cambridge, UK</p>
 
 <p>
   <a href="mailto:ronan.cummins@cl.cam.ac.uk">ronan.cummins@cl.cam.ac.uk</a> &middot;
@@ -19,39 +19,133 @@ permalink: /cv/
 
 ### Profile
 
-AI leader and researcher with over 15 years of experience spanning industry and academia. Currently leading AI research and development at a digital mental health company, with prior roles in academic research at the University of Cambridge and the University of Glasgow. Expertise in Natural Language Processing, Machine Learning, Information Retrieval, and Computational Approaches to Mental Health.
+AI leader and researcher with over 20 years of experience in industry and academia. Currently leading AI at a digital mental health company, with prior research roles at the University of Cambridge and University of Glasgow. Expertise spans Natural Language Processing, Machine Learning, Information Retrieval, and the application of AI to mental health. PhD from NUI Galway; IRCSET Marie-Curie Fellow.
 
 ---
 
 ### Experience
 
 <table style="width:100%; border-collapse: collapse;">
+
   <tr>
-    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">2018 – present</td>
-    <td style="vertical-align: top;">
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Jan 2024 – Present</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
       <strong>Vice President of Artificial Intelligence</strong><br>
-      <a href="https://ieso.ai/">ieso</a> &middot; Cambridge, UK<br>
-      <span style="color: #555; font-size: 0.95em;">Leading AI research and development for a digital mental health platform delivering Cognitive Behavioural Therapy at scale. Responsibilities include building and managing the AI team, defining AI strategy, and translating clinical research into production systems.</span>
+      <a href="https://ieso.ai/">ieso</a> &middot; US / Cambridge, UK<br>
     </td>
   </tr>
-  <tr><td colspan="2" style="padding: 0.4em 0;"></td></tr>
+
   <tr>
-    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">2012 – 2018</td>
-    <td style="vertical-align: top;">
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 0.2em;" colspan="2">
+      <em style="color: #555;">ieso — 8 years total progression:</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Jan 2021 – Feb 2024</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Director of AI Research</strong><br>
+      <a href="https://ieso.ai/">ieso</a> &middot; Cambridge, UK
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Aug 2018 – Jan 2021</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Principal AI Scientist</strong><br>
+      <a href="https://ieso.ai/">ieso</a> &middot; Cambridge, UK<br>
+      <span style="color: #555; font-size: 0.95em;">Improving mental health applications using responsible AI.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Aug 2017 – Aug 2018</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Senior AI Scientist</strong><br>
+      <a href="https://ieso.ai/">ieso</a> &middot; Cambridge, UK
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Jan 2016 – Aug 2017</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Consultant</strong><br>
+      ILEXIR LIMITED<br>
+      <span style="color: #555; font-size: 0.95em;">Research and development into automated assessment tools (e.g. <a href="https://writeandimprove.com">writeandimprove.com</a>).</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">May 2014 – Aug 2017</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
       <strong>Senior Research Associate</strong><br>
       <a href="https://www.cl.cam.ac.uk/research/nl/">Natural Language and Information Processing (NLIP) Group</a> &middot; University of Cambridge<br>
-      <span style="color: #555; font-size: 0.95em;">Research on automated language teaching and assessment in collaboration with Cambridge English. Work included automated essay scoring, grammatical error detection, and language proficiency modelling.</span>
+      <span style="color: #555; font-size: 0.95em;">Research into automated assessment of English as a second language. Taught Information Retrieval on the CS Tripos and advanced topics in NLP to MPhil level.</span>
     </td>
   </tr>
-  <tr><td colspan="2" style="padding: 0.4em 0;"></td></tr>
+
   <tr>
-    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">2009 – 2012</td>
-    <td style="vertical-align: top;">
-      <strong>Postdoctoral Researcher (Marie-Curie Fellow)</strong><br>
-      <a href="https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/">Information Retrieval Group</a> &middot; University of Glasgow<br>
-      <span style="color: #555; font-size: 0.95em;">IRCSET Marie-Curie funded postdoctoral research on query performance prediction, document score distributions, and probabilistic language models for information retrieval.</span>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Feb 2013 – Apr 2014</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Lecturer in Information Systems</strong><br>
+      University of Greenwich<br>
+      <span style="color: #555; font-size: 0.95em;">Taught databases and data mining.</span>
     </td>
   </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Sep 2009 – Aug 2012</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>IRCSET/Marie-Curie Fellow</strong><br>
+      <a href="https://nuig.github.io/">National University of Ireland, Galway</a><br>
+      <span style="color: #555; font-size: 0.95em;">Research on automatic query extraction for information retrieval and estimating query difficulty using score distributions.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Sep 2009 – Aug 2011</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>IRCSET/Marie-Curie Fellow</strong><br>
+      <a href="https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/">Information Retrieval Group</a> &middot; University of Glasgow<br>
+      <span style="color: #555; font-size: 0.95em;">Worked with Prof. Mounia Lalmas and Prof. Joemon Jose. Research into inductive retrieval models, expert search, score distributions, and query performance prediction.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Jan 2009 – Jun 2009</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Contract Lecturer</strong><br>
+      National University of Ireland, Galway<br>
+      <span style="color: #555; font-size: 0.95em;">Lectured in the Department of Information Technology.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Apr 2008 – May 2009</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Post Doctoral Researcher</strong><br>
+      DERI: Digital Enterprise Research Institute<br>
+      <span style="color: #555; font-size: 0.95em;">Research into expert search systems and incorporating term-proximity into information retrieval functions.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">Jun 2000 – Jun 2001</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Java Developer</strong><br>
+      Information Mosaic<br>
+      <span style="color: #555; font-size: 0.95em;">Financial software systems — online stock, portfolio, and integrated banking solutions.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">Jan 1999 – Sep 1999</td>
+    <td style="vertical-align: top;">
+      <strong>Co-op Student</strong><br>
+      Tellabs, Shannon<br>
+      <span style="color: #555; font-size: 0.95em;">Internship in a software testing group.</span>
+    </td>
+  </tr>
+
 </table>
 
 ---
@@ -59,14 +153,41 @@ AI leader and researcher with over 15 years of experience spanning industry and 
 ### Education
 
 <table style="width:100%; border-collapse: collapse;">
+
   <tr>
-    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">2005 – 2009</td>
-    <td style="vertical-align: top;">
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">2004 – 2008</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
       <strong>PhD, Information Retrieval</strong><br>
-      <a href="https://nuig.github.io/">University of Ireland, Galway</a><br>
-      <span style="color: #555; font-size: 0.95em;">Thesis: <em>Evolving Term-Weighting Schemes for Information Retrieval using Genetic Programming.</em></span>
+      <a href="https://nuig.github.io/">National University of Ireland, Galway</a><br>
+      <span style="color: #555; font-size: 0.95em;">Thesis: <em>Evolving Term-Weighting Schemes for Information Retrieval using Genetic Programming.</em> Research areas: Information Retrieval, Artificial Intelligence, Data Mining.</span>
     </td>
   </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">2013 – 2014</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>Postgraduate Certificate, Higher Education</strong><br>
+      University of Greenwich<br>
+      <span style="color: #555; font-size: 0.95em;">Teaching qualification for higher education in the UK.</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em; padding-bottom: 1.2em;">2002 – 2004</td>
+    <td style="vertical-align: top; padding-bottom: 1.2em;">
+      <strong>MSc, Software Design &amp; Development</strong><br>
+      <a href="https://www.universityofgalway.ie/">University of Galway</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 18%; vertical-align: top; color: #555; font-size: 0.9em; padding-right: 1em;">1996 – 2000</td>
+    <td style="vertical-align: top;">
+      <strong>B.Eng, Computer Engineering</strong><br>
+      <a href="https://www.ul.ie/">University of Limerick</a>
+    </td>
+  </tr>
+
 </table>
 
 ---
@@ -101,7 +222,7 @@ Ronan Cummins, Jiaul H. Paik, Yuanhua Lv
 
 ### Awards & Fellowships
 
-- **IRCSET Marie-Curie Fellow** &middot; Irish Research Council for Science, Engineering and Technology / EU Marie-Curie Actions &middot; 2009–2012
+- **IRCSET/Marie-Curie Fellow** &middot; Irish Research Council for Science, Engineering and Technology / EU Marie-Curie Actions &middot; 2009–2012
 - **Fellow** &middot; [Higher Education Academy](https://www.advance-he.ac.uk/)
 
 ---
@@ -113,4 +234,4 @@ Ronan Cummins, Jiaul H. Paik, Yuanhua Lv
 
 ---
 
-<p style="color: #999; font-size: 0.85em;"><em>Last updated: April 2026. For the most up-to-date information see <a href="https://www.linkedin.com/in/ronan-cummins-b046997/">LinkedIn</a> or <a href="https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en">Google Scholar</a>.</em></p>
+<p style="color: #999; font-size: 0.85em;"><em>For the most up-to-date information see <a href="https://www.linkedin.com/in/ronan-cummins-b046997/">LinkedIn</a> or <a href="https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en">Google Scholar</a>.</em></p>
