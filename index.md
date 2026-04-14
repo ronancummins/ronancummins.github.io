@@ -11,7 +11,8 @@ permalink: /
   <a href="https://github.com/ronancummins">GitHub</a> &middot;
   <a href="https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en">Google Scholar</a> &middot;
   <a href="https://dblp.org/pid/28/1264.html">DBLP</a> &middot;
-  <a href="https://www.linkedin.com/in/ronan-cummins-b046997/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ronan-cummins-b046997/">LinkedIn</a> &middot;
+  <a href="/cv/">CV</a>
 </p>
 
 ---
