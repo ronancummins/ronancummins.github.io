@@ -84,6 +84,8 @@ Ronan Cummins, Jiaul H. Paik, Yuanhua Lv
 
 ### Selected Patents
 
+Co-inventor on 4 patent families (3 granted) with ieso Digital Health Ltd.
+
 **[Computer-Implemented Method for Providing Care](https://patents.justia.com/patent/12293819)**  
 Ronan Cummins, Michael Ewbank, Mihai Valentin Tablan, Andrew Blackwell, et al.  
 *US 12,293,819, ieso Digital Health Ltd, 2025*
