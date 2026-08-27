@@ -82,6 +82,20 @@ Ronan Cummins, Jiaul H. Paik, Yuanhua Lv
 
 ---
 
+### Selected Patents
+
+**[Methods and Systems for Improved Therapy Delivery and Monitoring](https://patents.google.com/patent/WO2019220144A1/en)**  
+Ronan Cummins, Alan J. Martin, Valentin Tablan, Michael Ewbank  
+*WO2019220144A1, ieso Digital Health Ltd, 2019*
+
+**[A Computer-Implemented Method for Providing Care](https://patents.google.com/patent/WO2022269286A1/en)**  
+Michael Ewbank, Valentin Tablan, Ronan Cummins, Andrew Blackwell, et al.  
+*US 12,293,819 / WO2022269286A1, ieso Digital Health Ltd, 2022*
+
+[Full patent list &rarr;](https://patents.google.com/?inventor=Ronan+Cummins)
+
+---
+
 ### Affiliations
 
 - Lifetime Member, [Marie-Curie Alumni Association](https://www.mariecuriealumni.eu/)
