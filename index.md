@@ -84,13 +84,17 @@ Ronan Cummins, Jiaul H. Paik, Yuanhua Lv
 
 ### Selected Patents
 
-**[Methods and Systems for Improved Therapy Delivery and Monitoring](https://patents.google.com/patent/WO2019220144A1/en)**  
-Ronan Cummins, Alan J. Martin, Valentin Tablan, Michael Ewbank  
-*WO2019220144A1, ieso Digital Health Ltd, 2019*
+Co-inventor on 4 patent families (3 granted US patents) for AI systems deployed in a safety-critical, regulated healthcare environment, spanning conversational agent orchestration, therapy monitoring, and clinical triage. Filed jointly with Mihai Valentin Tablan, Andrew Blackwell, and Michael Ewbank (ieso Digital Health Ltd).
 
-**[A Computer-Implemented Method for Providing Care](https://patents.google.com/patent/WO2022269286A1/en)**  
-Michael Ewbank, Valentin Tablan, Ronan Cummins, Andrew Blackwell, et al.  
-*US 12,293,819 / WO2022269286A1, ieso Digital Health Ltd, 2022*
+**[Computer-Implemented Method for Providing Care](https://patents.google.com/patent/US12293819B2/en)**  
+Conversational agent / care-protocol orchestration  
+*US 12,293,819, ieso Digital Health Ltd, granted 2025*
+
+**[Methods and Systems for Improved Therapy Delivery and Monitoring](https://patents.google.com/patent/US12073936B2/en)**  
+*US 12,073,936, ieso Digital Health Ltd, granted 2024*
+
+**[Psychotherapy Triage Method](https://patents.google.com/patent/US20200005929A1/en)**  
+*US 2020/0005929, ieso Digital Health Ltd, published 2020*
 
 [Full patent list &rarr;](https://patents.google.com/?inventor=Ronan+Cummins)
 
