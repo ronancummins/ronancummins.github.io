@@ -78,6 +78,10 @@ Ronan Cummins, Meng Zhang, Ted Briscoe
 Ronan Cummins, Jiaul H. Paik, Yuanhua Lv  
 *ACM Transactions on Information Systems (TOIS), 33, 2015*
 
+**[Evolving Local and Global Weighting Schemes in Information Retrieval](https://doi.org/10.1007/s10791-006-1682-6)**  
+Ronan Cummins, Colm O'Riordan  
+*Information Retrieval, 9(3):311–330, 2006*
+
 [Full publication list &rarr;](https://scholar.google.co.uk/citations?user=wQEvGP0AAAAJ&hl=en)
 
 ---
